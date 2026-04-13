@@ -1,2 +1,2 @@
-# Intermed-Dev-2-React-Counter-component-w-state-mngmt
+# Intermed-Dev-2: React Counter Component with State Management
 

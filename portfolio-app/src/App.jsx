@@ -7,8 +7,8 @@ function App() {
   return (
     <>
       <section id="center">
-
       <Counter />
+      </section>
 
       <section id="spacer"></section>
     </>

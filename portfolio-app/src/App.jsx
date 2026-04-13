@@ -8,8 +8,6 @@ import Counter from './Counter.jsx'
 function App() {
   const [count, setCount] = useState(0)
 
-  <Counter />
-
   return (
     <>
       <section id="center">
@@ -19,7 +17,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1><Counter /></h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>

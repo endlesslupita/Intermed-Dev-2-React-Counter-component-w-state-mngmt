@@ -21,6 +21,15 @@ setCount(count + 1);
 
 <h1>count is {count}</h1>
 
+<button onClick={() => {
+
+setCount(prev => prev + 1);
+setCount(prev => prev + 1);
+
+}}>Correct increment twice</button>
+
+<h1>count is {count}</h1>
+
 </div>
 );
 }

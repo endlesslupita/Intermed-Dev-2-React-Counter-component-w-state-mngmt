@@ -129,7 +129,7 @@ When the student is ready to write tests, automatically perform the setup steps 
 
 ## Learning History
 A running log of concepts covered across all assignments is kept at:
-`d:/Documents/GitHub/claude-templates/learning-history.md`
+`d:/Documents/GitHub/endless/claude-templates/learning-history.md`
 
 The file has three sections:
 - **Entry Index** (top) — a table listing all assignments, their dates, and whether they are in the Recent or Older section
